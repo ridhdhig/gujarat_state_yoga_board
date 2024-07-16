@@ -1,0 +1,326 @@
+{
+  "English": {
+    "language_code": "English",
+    "is_default": true,
+    "auth_strings": {
+      
+      "firstName": "First Name",
+      "middleName": "Middle Name",
+      "surname": "Surname",
+      "fulladdresswithPincode": "Full Address with Pincode",
+      "taluka": "Taluka",
+      "district": "District",
+      "mobileNumber": "Mobile Number",
+      "emaili’d": "Email i’d",
+      "gender": "Gender",
+      "dateofBirth": "Date of Birth",
+      "maritalStatus": "Marital Status",
+      "ifmarriedthenMarriageDate": "If Married then Marriage Date",
+      "yogCoordinatorDesignation": "Yog Coordinator Designation",
+      "workascoordinatorDistrict/Zonename": "Work as coordinator District/ Zone name",
+      "weight": "Weight",
+      "educationQualification": "Education Qualification",
+      "educationQualificationinYoga": "Education Qualification in Yoga",
+      "profession": "Profession",
+      "trackSuiteSize": "Track Suite Size",
+      "coordinatorPhoto": "Coordinator Photo",
+      "password": "Password",
+      "coordinator’sCode": "Coordinator’s Code",
+
+      "home_strings":{
+      "home": "Home",
+      "profile": "Profile",
+      "dailyReporting": "Daily Reporting",
+      "monthlyReporting": "Monthly Reporting",
+      "T.A.Bill": "T.A. Bill",
+      "add": "Add",
+      "setting": "Setting",
+
+      
+
+      "slider_strings":{
+        "language": "Language",
+      "menu": "Menu",
+      "myProfile": "My Profile",
+      "changePassword": "Change Password",
+
+      },
+      
+      "dailyReporting_strings":{
+       
+      "date": "Date",
+      "liveSessionPhoto": "Live Session Photo",
+      "liveCapture": "Live Capture",
+      "stage": "Stage",
+      "audience": "Audience"
+      
+
+      },
+      
+      
+      
+      
+      "T.A. Bill_strings":{
+      "selectMonth": "Select Month",
+      "total": "Total",
+      "month": "Month"
+
+      },
+      
+      "monthly_reporting":  {
+        "uploadCoordinate’sSignaturePhoto": "Upload Coordinate’s Signature Photo",
+      },
+
+      "setting":{
+        "myRecentData": "My Recent Data",
+        "updatePassword": "Update Password",
+        "oldPassword": "Old Password",
+        "newPassword": "New Password"
+
+
+      },
+
+      
+      
+      
+      "Select Category": "Select Category",
+      "dailyTour": "Daily Tour",
+      "selectDate": "Select Date",
+      "export": "Export",
+      "exportToPDF": "Export To PDF",
+      "congratulations!": "Congratulations!",
+      "yourPDFExported!": "Your PDF Exported!"
+      
+
+    },
+    "common_string" :{
+      "createAccount": "To create account",
+      "login": "login",
+      "logout": "logout",
+      "upload": "Upload",
+      "next": "Next",
+      "save": "Save",
+      "delete": "Delete",
+      "cancel": "Cancel",
+      "addDailyReporting": "Add Daily Reporting",
+      "addT.A.Bill": "Add T. A. Bill",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December",
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "yes": "Yes",
+      "no": "No"
+      
+     
+    },
+    "Gujarati":{
+    "language_code": "Gujarati",
+    "auth_strings": {
+
+      "daily_report":{
+      "time": "સમય",
+      "travelPlace ": "પ્રવાસનું સ્થળ ",
+      "taluka": "તાલુકો",
+      "district ": "જીલ્લો ",
+      "wordNumber ": "વોર્ડ નંબર ",
+      "travelPurpose": "પ્રવાસનો હેત",
+      "numberofPresentationsinProgram": "કાર્યક્રમમાં હાજર સંખ્યા",
+      "place ": "સ્થળ "
+
+      {
+        "firstName": "પ્રથમ નામ",
+        "middleName": "મધ્ય નામ",
+        "Surname": "અટક",
+        "fulladdresswithPincode": "પૂર્ણ સરનામું સાથે પિનકોડ",
+        "Taluka": "તાલુકો",
+        "district": "જિલ્લો",
+        "mobileNumber": "મોબાઇલ નંબર",
+        "emaili’d": "ઇમેઇલ આઈડી",
+        "gender": "લિંગ",
+        "dateofBirth": "જન્મ તારીખ",
+        "maritalStatus": "વૈવાહિક સ્થિતિ",
+        "ifmarriedthenMarriageDate": "જો લગ્ન થયેલ છે તો લગ્ન તારીખ",
+        "yogCoordinatorDesignation": "યોગ સંકલક પદ",
+        "workascoordinatorDistrict/Zonename": "સંકલક તરીકે કાર્ય કરો જિલ્લો/ઝોન નામ",
+        "Weight": "વજન",
+        "educationQualification": "શૈક્ષણિક લાયકાત",
+        "educationQualificationinYoga": "યોગામાં શૈક્ષણિક લાયકાત",
+        "profession": "વ્યવસાય",
+        "trackSuiteSize": "ટ્રેક સુટ સાઈઝ",
+        "coordinatorPhoto": "સંકલકની તસવીર",
+        "password": "પાસવર્ડ",
+        "coordinator’sCode": "સંકલકનો કોડ"
+      }
+    
+      
+      },
+
+
+      "home_strings":{
+        "home": "હોમ",
+        "profile": "પ્રોફાઇલ",
+        "dailyReporting": "દૈનિક રિપોર્ટિંગ",
+        "monthlyReporting": "માસિક રિપોર્ટિંગ",
+        "T.A.Bill": "ટી.એ. બિલ",
+        "add": "ઉમેરો",
+        "setting": "સેટિંગ"
+      }
+      
+
+      {
+        "slider_strings": {
+          "language": "ભાષા",
+          "menu": "મેનૂ",
+          "myProfile": "મારું પ્રોફાઇલ",
+          "changePassword": "પાસવર્ડ બદલો"
+        }
+      }
+      
+
+      {
+        "dailyReporting_strings": {
+          "Date": "તારીખ",
+          "liveSessionPhoto": "લાઈવ સેશન ફોટો",
+          "liveCapture": "લાઈવ કૅપ્ચર",
+          "stage": "મંચ",
+          "audience": "પ્રેક્ષકો"
+        }
+      }
+      
+
+      {
+        "T.A. Bill_strings": {
+          "selectMonth": "મહિનો પસંદ કરો",
+          "total": "કુલ",
+          "month": "મહિનો"
+        },
+
+        "monthly_reporting": {
+          "uploadCoordinate’sSignaturePhoto": "સંકલનકના સહીના ફોટો અપલોડ કરો"
+        },
+
+        "setting": {
+          "myRecentData": "મારા તાજેતરના ડેટા",
+          "updatePassword": "પાસવર્ડ અપડેટ કરો",
+          "oldPassword": "જુનો પાસવર્ડ",
+          "newPassword": "નવો પાસવર્ડ"
+        },
+
+        "Select Category": "શ્રેણી પસંદ કરો",
+        "dailyTour": "દૈનિક પ્રવાસ",
+        "selectDate": "તારીખ પસંદ કરો",
+        "export": "નિકાસ",
+        "exportToPDF": "પી.ડી.એફ. માં નિકાસ કરો",
+        "congratulations!": "અભિનંદન!",
+        "yourPDFExported!": "તમારી પી.ડી.એફ. નિકાસ થઈ ગઈ!",
+
+        "common_string": {
+          "createAccount": "ખાતું બનાવવા માટે",
+          "login": "પ્રવેશ કરો",
+          "logout": "લોગ આઉટ",
+          "upload": "અપલોડ",
+          "next": "આગલું",
+          "save": "સાચવો",
+          "delete": "કાઢી નાખો",
+          "cancel": "રદ કરો",
+          "addDailyReporting": "દૈનિક રિપોર્ટિંગ ઉમેરો",
+          "addT.A.Bill": "ટી.એ. બિલ ઉમેરો",
+          "june": "જૂન",
+          "july": "જુલાઈ",
+          "august": "ઓગસ્ટ",
+          "september": "સપ્ટેમ્બર",
+          "october": "ઓક્ટોબર",
+          "november": "નવેમ્બર",
+          "december": "ડિસેમ્બર",
+          "january": "જાન્યુઆરી",
+          "february": "ફેબ્રુઆરી",
+          "march": "માર્ચ",
+          "april": "એપ્રિલ",
+          "may": "મે",
+          "yes": "હા",
+          "no": "ના"
+        }
+      },
+      
+      
+      
+     "T.A. Bill": {
+  "selectMonth": "પ્રવાસ ખર્ચનો માસ",
+  "coordinatorName": "કો-ઓર્ડીનેટરનું નામ",
+  "zone/districtName": "ઝોન/જિલ્લાનું નામ",
+  "designation": "હોદ્દો",
+  "travelPurposeDetails": "પ્રવાસમાં જતાની વિગત",
+  "departureDate": "રવાના તારીખ",
+  "departureTime": "રવાના સમય",
+  "departurePlace": "રવાના સ્થળ",
+  "arrivalDate": "પહોચ્યા તારીખ",
+  "arrivalTime": "પહોચ્યા સમય",
+  "arrivalPlace": "પહોચ્યા સ્થળ",
+  "returnDetails": "પરત આવવાની વિગત",
+  "totalKm": "કુલ કી.મી.",
+  "perKm₹06": "પ્રતિ કી.મી. 06 રુ.",
+  "totalTravelExpense₹": "કુલ પ્રવાસ ખર્ચ રુ.",
+  "mealExpense₹": "ભોજન ખર્ચ રુ.",
+  "accommodationExpense₹": "નિવાસ ખર્ચ રુ.",
+  "grandTotalAmount₹": "તમામ મળી કુલ રકમ રુ.",
+  "coordinatorSignature": "કો-ઓર્ડીનેટરની સહી",
+  "zone/districtName": "ઝોન/જિલ્લાનું નામ"
+},
+
+
+  "monthly_reporting": {
+  "year": "વર્ષ",
+  "district/Manpa coordinatorName": "જિલ્લા/ મનપા કો-ઓર્ડીનેટરનું નામ",
+  "district/Manpa": "જીલ્લો/ મનપા",
+  "How many new yoga trainers trained?": "કેટલા નવા યોગ ટ્રેનરો તૈયાર કર્યા?",
+  "Work done last month": "ગત માસનું કાર્ય",
+  "Work done this month": "ચાલુ માસમાં કરેલ કાર્ય",
+  "Total work done": "કુલ કરેલ કાર્ય",
+  "How many people registered as trainers?": "કેટલા લોકોનું ટ્રેનર તરીકે રજીસ્ટ્રેશન કરાવ્યુ?",
+  "How many new yoga classes started?": "કેટલા નવા યોગ વર્ગો શરૂ કરાવ્યા ?",
+  "How many talukas traveled?": "કેટલા તાલુકાઓનો પ્રવાસ કર્યો ?",
+  "How many yoga dialogue programs conducted?": "કેટલા યોગ સંવાદ કાર્યક્રમ કર્યા?",
+  "How many yoga camps organized?": "કેટલી યોગ શિબિરનું આયોજન કર્યું?",
+  "Details of Yoga Class Empowerment Campaign": "યોગ કક્ષા સશક્તિકરણ અભિયાન ની વિગત",
+  "Have you attended yoga classes?": "કેટલા યોગ કલાસની મુલાકાત લીધી ?",
+  "Regular meetings with yoga coach / team leader?": "યોગ કોચ / ટીમ લીડર સાથે નિયમિત બેઠક યોજી છે?",
+  "How many yoga trainers interviewed?": "કેટલા યોગ ટ્રેનરોના ઈન્ટરવ્યુ લીધા?",
+  "Details of MOU signed": "MOU કર્યાની વિગત",
+  "Details of office yoga program": "ઓફિસ યોગા કાર્યક્રમ ની વિગત",
+  "Activities of any other yoga": "અન્ય કોઈ યોગની પ્રવૃતિઓ",
+  "month": "મહિનો"
+}
+,
+
+      
+      {
+        "error_string": {
+          "AreyousuretoDelete?": "શું તમે ખરેખર કાઢી નાખવા માંગો છો?",
+          "You have successfully updated your password": "તમારો પાસવર્ડ સફળતાપૂર્વક અપડેટ થયો છે",
+          "Are you sure to Log Out ?": "શું તમે ખરેખર લોગ આઉટ કરવા માંગો છો?",
+          "You have successfully created Yog Co-Ordinator Profile": "તમે સફળતાપૂર્વક યોગ સંકલક પ્રોફાઇલ બનાવ્યું છે"
+        }
+      }
+      
+
+    }
+
+    },
+    
+    "error_string": {
+      "AreyousuretoDelete?": "Are you sure to Delete ?",
+      "You have successfully updated your password": "You have successfully updated your password",
+      "Are you sure to Log Out ?": "Are you sure to Log Out ?",
+      "You have successfully created Yog Co-Ordinator Profile": "You have successfully created Yog Co-Ordinator Profile",
+    },
+    
+  }
+}
